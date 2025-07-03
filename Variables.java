@@ -10,5 +10,14 @@ public class Variables {
         System.out.println(noOfLikes);
         System.out.println(isLiked);
 
+        String videoTitle = "Rank|Likes|Comments|Share";
+        String userName = "Mohan Krishna";
+        String email = "mohankrishnan802@gmail.com";
+        String password = "Nmvk99@";
+        System.out.println(userName);
+
+        userName = "Krish";
+        System.out.println(userName);
+
     }
 }
